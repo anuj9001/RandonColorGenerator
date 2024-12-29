@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url(images/image.png);
+    background-size: cover;
+}
+div{
+    height: 200px;
+    width:500px;
+    border:1px solid black;
+    margin-left: 420px;
+}
